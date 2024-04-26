@@ -20,7 +20,7 @@ source myvenv/bin/activate
 
 ````
 
-## Usage A blubb
+## Usage
 ### Project Structure
 For IDS NXT rio: 
 ![class_diagram_rio.png](utils/class_diagrams/class_diagram_rio.png)
